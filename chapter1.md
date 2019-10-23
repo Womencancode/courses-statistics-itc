@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Chapter 1 Introduction to EDA'
+description: 'In this part, you will learn about the different data type, how to transform them and how to use summary statistics to get the most information out of them'
 ---
 
 ## Example coding exercise
@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: be0e35837c
+xp: 50
+```
+
+`@projector_key`
+a65048197d14f669b9511b9337ad9fc9
