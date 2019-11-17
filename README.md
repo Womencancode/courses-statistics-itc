@@ -1,1 +1,1 @@
-# courses-statistics-itc
+# itc: Statistics For Data Scientists

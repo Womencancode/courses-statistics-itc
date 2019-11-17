@@ -7,9 +7,9 @@ description: 'In this part, you will learn about the different data type, how to
 
 ```yaml
 type: VideoExercise
-key: 8b004ce017
+key: a1e52034f3
 xp: 50
 ```
 
 `@projector_key`
-ae05fae7f739a2373503721f81dab1db
+be8e0157c2d118564c3429372df2047b
