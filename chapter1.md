@@ -1,15 +1,15 @@
 ---
-title: 'Chapter 1 Introduction to EDA'
-description: 'In this part, you will learn about the different data type, how to transform them and how to use summary statistics to get the most information out of them'
+title: 'Statistics For Data Scientist- introduction'
+description: 'Statistics For Data Scientist- introduction'
 ---
 
-## Insert exercise title here
+##     
 
 ```yaml
 type: VideoExercise
-key: a1e52034f3
+key: de3e2f8c3b
 xp: 50
 ```
 
 `@projector_key`
-be8e0157c2d118564c3429372df2047b
+9b1b9290d5fb8a160060051b6f5c8cb9
