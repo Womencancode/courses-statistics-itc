@@ -3,7 +3,7 @@ title: 'Statistics For Data Scientist- introduction'
 description: 'Statistics For Data Scientist- introduction'
 ---
 
-##         
+## ITC Statistics Online Course
 
 ```yaml
 type: VideoExercise
