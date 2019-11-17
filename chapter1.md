@@ -3,7 +3,7 @@ title: 'Statistics For Data Scientist- introduction'
 description: 'Statistics For Data Scientist- introduction'
 ---
 
-##     
+##         
 
 ```yaml
 type: VideoExercise
