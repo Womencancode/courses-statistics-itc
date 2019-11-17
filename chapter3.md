@@ -75,14 +75,7 @@ Classify the variables
       id: rank
     - content: "Letter grade"
       id: grade
-      
-- id: cat_nominal
-  title: "Categorical Nominal"
-  items:
-    - content: "Country name"
-      id: country
-    - content: "Name of currency"
-      id: currency
+
 ```
 
 `@sct`
