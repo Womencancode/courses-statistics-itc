@@ -15,7 +15,7 @@ key: 8d9d3b1eb3
 
 `@lower_third`
 name: Yigal Weinberger
-title: 
+title: <itc>
 
 `@script`
 
