@@ -26,3 +26,16 @@ xp: 50
 
 `@projector_key`
 0ca17f3baf5abbf27378caf18fe9d3e5
+
+---
+
+## Coursera W2: Quantitative Data: Numerical Summaries
+
+```yaml
+type: VideoExercise
+key: 32fdd6654b
+xp: 50
+```
+
+`@projector_key`
+fe7491647a619c51131386b74be240aa
