@@ -81,7 +81,7 @@ xp: 50
 
 ---
 
-## Ploting Categorical Data 
+## Ploting Categorical Data
 
 ```yaml
 type: NormalExercise

@@ -14,7 +14,7 @@ key: 26d9c2189b
 ```
 
 `@lower_third`
-name:  Reed Coots
+name: Reed Coots
 title: Coursera Instructor
 
 `@script`

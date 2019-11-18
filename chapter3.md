@@ -16,7 +16,7 @@ xp: 50
 
 ---
 
-## Types of variables: Quantitative Or Qualitative 
+## Types of variables: Quantitative Or Qualitative
 
 ```yaml
 type: DragAndDropExercise

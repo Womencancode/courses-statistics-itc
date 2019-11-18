@@ -6,7 +6,7 @@ video_link:
     hls: 'https://itc-public-44088-1948-9568-us-east-1-408819489568-us-east-1.s3.amazonaws.com/output/hls/Part11h264/Custom-Ott_Hls_Ts_Avc_Aac_16x9_1280x720_30fps_5000kbps.m3u8'
 ---
 
-##       Part1: Introduction To Statistics
+## Part1: Introduction To Statistics
 
 ```yaml
 type: TitleSlide
@@ -23,7 +23,6 @@ title: <itc>
 ---
 
 ## Empty3
-
 
 ```yaml
 type: FullSlide
