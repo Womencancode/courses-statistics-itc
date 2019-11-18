@@ -65,3 +65,16 @@ xp: 50
 
 `@projector_key`
 4668db03b54efc3aff4f8afc2b139c2b
+
+---
+
+## Coursera W2 Demo: Interactive Histogram & Boxplot
+
+```yaml
+type: VideoExercise
+key: 6d25b2d431
+xp: 50
+```
+
+`@projector_key`
+69a09cf1146818ffb3cff555f86e5d79
