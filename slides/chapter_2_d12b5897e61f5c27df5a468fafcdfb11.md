@@ -22,43 +22,11 @@ title: <itc>
 
 ---
 
-## Empty3
-
-```yaml
-type: FullSlide
-key: a7bdae622f
-hide_title: true
-```
-
-`@part1`
-
-
-`@script`
-
-
----
-
 ## Empty
 
 ```yaml
 type: FullSlide
 key: 333725f183
-hide_title: true
-```
-
-`@part1`
-
-
-`@script`
-
-
----
-
-## Empty 2
-
-```yaml
-type: FullSlide
-key: 55892d22e4
 hide_title: true
 ```
 
