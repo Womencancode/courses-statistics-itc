@@ -81,14 +81,23 @@ Classify the variables
 `@sct`
 ```{python}
 checks: # Individual checks and custom messages per item. This is optional. Without it, it will check that the options are as in the solution code.
-  - condition: check_target(pandas) == dropzone_python # Check that pandas is in dropzone_python.
-    incorrectMessage: 'Hmm! Pandas is a Python package.' # If that condition is not true, show this message.
-  - condition: check_target(numpy) == dropzone_python
-    incorrectMessage: 'Damn, this is far from perfect!'
-  - condition: check_target(dplyr) == dropzone_r
-    incorrectMessage: "Hmm, keep doing R courses! :-)"
-  - condition: check_target(stringr) == dropzone_r
-    incorrectMessage: "How funny if stringr would be a Python package."
+  - condition: check_target(height_m) == quant_cont 
+    incorrectMessage: "No, a physical quantity such as height is a continuous quantitative variable" 
+  - condition: check_target(height_ft) == quant_cont 
+    incorrectMessage: "No, a physical quantity such as height is a continuous quantitative variable"    
+  - condition: check_target(height_comp) == quant_disc 
+    incorrectMessage: "A value on a computer is always discrete. When you use n bits to store a value, you can only have 2^n distinct values."         
+  - condition: check_target(tea_china) == quant_disc
+    incorrectMessage: "A yuan is divided into 100 fen (similar to how a dollar is divided into a hundred cents), but as there are no coins smaller than one fen, the price would always be an integer number of fens. An integer number is a discrete quantity"
+  - condition: check_target(rank) == cat_ordinal
+    incorrectMessage: "Military ranks have an order. A general outranks a captain, which outranks a sergeant, which outranks a private"
+  - condition: check_target(grade) == cat_ordinal
+    incorrectMessage: "A letter grade of A is better than B, which is better than C, etc."
+  - condition: check_target(country) == cat_nominal
+    incorrectMessage: "Names don't have an inherent order, so it is categorical nominal"
+  - condition: check_target(currency) == cat_nominal
+    incorrectMessage: "Names don't have an inherent order, so it is categorical nominal"
+    
 successMessage: "Congratulations" # Message shown when all is correct.
 failureMessage: "Try again!" # Message shown when there are errors (and there is no specific error available).
 isOrdered: false # Should the items in the zones be ordered as in the solution code?
