@@ -1,1 +1,1 @@
-# itc: Statistics For Data Scientists
+# ITC: Statistics For Data Scientists
