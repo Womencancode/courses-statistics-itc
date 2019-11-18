@@ -27,7 +27,7 @@ title: Coursera Instructor
 ```yaml
 type: FullSlide
 key: c382ecc083
-disable_transition: true
+disable_transition: false
 hide_title: true
 ```
 
