@@ -1,4 +1,4 @@
-title: 'itc: Statistics for Data Scientists'
-description: 'itc: Statistics for Data Scientists'
+title: 'ITC: Statistics for Data Scientists'
+description: 'ITC: Statistics for Data Scientists'
 programming_language: python
 from: 'python-base-prod:v1.0.2'
