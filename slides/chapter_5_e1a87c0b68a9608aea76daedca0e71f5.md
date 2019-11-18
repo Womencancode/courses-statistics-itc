@@ -11,8 +11,8 @@ key: ed3b271dee
 ```
 
 `@lower_third`
-name: Full Name
-title: Instructor
+name: Reed Coots
+title: Coursera Instructor
 
 `@script`
 
