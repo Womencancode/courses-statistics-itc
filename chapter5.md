@@ -52,3 +52,16 @@ xp: 50
 
 `@projector_key`
 e1a87c0b68a9608aea76daedca0e71f5
+
+---
+
+## Coursera W2: Quantitative Data: Boxplots
+
+```yaml
+type: VideoExercise
+key: c3c7e87e5f
+xp: 50
+```
+
+`@projector_key`
+4668db03b54efc3aff4f8afc2b139c2b
