@@ -87,5 +87,27 @@
         "indexh": 1
       }
     }
+  ],
+  "slides/chapter_4_3a21c6a1d317e3917885b7431572340e.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.039966277777777774,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.08168727777777779,
+      "state": {
+        "indexh": 1
+      }
+    }
   ]
 }
