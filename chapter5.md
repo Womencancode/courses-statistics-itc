@@ -39,3 +39,16 @@ xp: 50
 
 `@projector_key`
 fe7491647a619c51131386b74be240aa
+
+---
+
+## Coursera W2 Standard Score (Empirical Rule)
+
+```yaml
+type: VideoExercise
+key: 5ee15de38d
+xp: 50
+```
+
+`@projector_key`
+e1a87c0b68a9608aea76daedca0e71f5
