@@ -20,5 +20,45 @@
         "indexh": 1
       }
     }
+  ],
+  "slides/chapter_1_9b1b9290d5fb8a160060051b6f5c8cb9.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    }
+  ],
+  "slides/chapter_3_46ce39bf7d91104f28c21a7b488b985e.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    }
+  ],
+  "slides/chapter_5_3500671ebe3f825a4828960cd558f0cf.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.0023275433070866144,
+      "state": {
+        "indexh": 1
+      }
+    }
   ]
 }
