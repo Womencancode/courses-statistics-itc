@@ -1,6 +1,8 @@
 ---
 title: 'Part 1.3 Summary Statistics'
 description: 'Part 1.3 Summary Statistics'
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_22747/slides/chapter5.pdf'
 ---
 
 ## Coursera: W2 Categorical Data: Tables, Bar Charts & Pie Charts

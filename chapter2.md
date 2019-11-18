@@ -1,6 +1,8 @@
 ---
 title: 'Part 1: Introduction To Statistics'
 description: "Introduction To Statistics\n"
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_22747/slides/chapter2.pdf'
 ---
 
 ## Part1: Introduction To Statistics

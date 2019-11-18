@@ -1,6 +1,8 @@
 ---
 title: 'Part 1.2 Data Structures'
 description: '1.2 Data Structures'
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_22747/slides/chapter4.pdf'
 ---
 
 ## Structured data Vs. Unstructured data

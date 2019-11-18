@@ -1,6 +1,8 @@
 ---
 title: 'Statistics For Data Scientist- introduction'
 description: 'Statistics For Data Scientist- introduction'
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_22747/slides/chapter1.pdf'
 ---
 
 ## ITC Statistics Online Course

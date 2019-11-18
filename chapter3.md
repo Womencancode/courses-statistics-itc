@@ -1,6 +1,8 @@
 ---
 title: 'Part 1.1 Data Types'
 description: 'Part 1.1 Data Types'
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_22747/slides/chapter3.pdf'
 ---
 
 ## Part 1.1 Data Types
