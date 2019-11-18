@@ -81,7 +81,7 @@ xp: 50
 
 ---
 
-## Insert exercise title here
+## Ploting Categorical Data 
 
 ```yaml
 type: NormalExercise
