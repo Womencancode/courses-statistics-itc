@@ -93,8 +93,7 @@ checks: # Individual checks and custom messages per item. This is optional. With
     incorrectMessage: "Military ranks have an order. A general outranks a captain, which outranks a sergeant, which outranks a private"
   - condition: check_target(grade) == cat_ordinal
     incorrectMessage: "A letter grade of A is better than B, which is better than C, etc."
-  - condition: check_target(currency) == cat_nominal
-    incorrectMessage: "Names don't have an inherent order, so it is categorical nominal"
+
     
 successMessage: "Congratulations" # Message shown when all is correct.
 failureMessage: "Try again!" # Message shown when there are errors (and there is no specific error available).
