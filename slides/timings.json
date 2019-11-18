@@ -28,6 +28,19 @@
         "indexh": 0,
         "indexf": -1
       }
+    },
+    {
+      "timing": 0.000993213619402985,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.004604144589552239,
+      "state": {
+        "indexh": 1
+      }
     }
   ],
   "slides/chapter_3_46ce39bf7d91104f28c21a7b488b985e.md": [
