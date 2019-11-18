@@ -1,6 +1,9 @@
 ---
 key: e1a87c0b68a9608aea76daedca0e71f5
 title: 'Insert title here'
+video_link:
+    mp4: 'https://itc-public-44088-1948-9568-us-east-1-408819489568-us-east-1.s3.amazonaws.com/input/13_standart_score.mp4'
+    hls: 'https://itc-public-44088-1948-9568-us-east-1-408819489568-us-east-1.s3.amazonaws.com/output/hls/13standartscore.m3u8'
 ---
 
 ## Coursera W2 Standard Score (Empirical Rule)
