@@ -109,5 +109,118 @@
         "indexh": 1
       }
     }
+  ],
+  "slides/chapter_4_e6d8cb31d9e16a777247bb8009140d95.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    }
+  ],
+  "slides/chapter_5_0ca17f3baf5abbf27378caf18fe9d3e5.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.0006104801561483409,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.0008241633051398829,
+      "state": {
+        "indexh": 1
+      }
+    }
+  ],
+  "slides/chapter_5_fe7491647a619c51131386b74be240aa.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.0030266161971830986,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.0039049859154929576,
+      "state": {
+        "indexh": 1
+      }
+    }
+  ],
+  "slides/chapter_5_e1a87c0b68a9608aea76daedca0e71f5.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.0027302022988505746,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.0039047172413793105,
+      "state": {
+        "indexh": 1
+      }
+    }
+  ],
+  "slides/chapter_5_4668db03b54efc3aff4f8afc2b139c2b.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.004338260101010101,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.004967510101010101,
+      "state": {
+        "indexh": 1
+      }
+    }
+  ],
+  "slides/chapter_5_69a09cf1146818ffb3cff555f86e5d79.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.003984949494949495,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    }
   ]
 }
