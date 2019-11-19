@@ -64,8 +64,8 @@ csv_file = 'https://assets.datacamp.com/production/repositories/5503/datasets/27
 
 `@sample_code`
 ```{python}
-with open(csv_file,'r') as f:
-  print(f.readline())
+# with open(csv_file,'r') as f:
+#   print(f.readline())
 ```
 
 `@solution`
